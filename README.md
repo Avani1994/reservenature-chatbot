@@ -38,6 +38,7 @@ Answer:
 ```
 2. Prompting with - *Given the context information and not prior knowledge, answer the query. Please only answer the question if you have 95% confidence, other wise please say you don't know*. This makes LLM more restricted so that it doesnt answer anything which could be wrong. This technique is very helpful using RAGs which gives us a lot of control over what user sees. This is not possible with Finetuning
 ```
+prompt = f"""
 Context information is below.
 ---------------------
 {retrieved_chunk}
@@ -88,8 +89,6 @@ Answer: {answer2}
                                                            |
 ```
 
-
-###
 
 
 
