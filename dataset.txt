@@ -1,0 +1,146 @@
+Frequently Asked Questions: Get reservations at sold-out campgrounds or permits.
+Questions
+Find answers to all your questions related to camping, hiking, billing and more!
+Do you also book campsites?
+No, we don't book campsites. We only notify you when a campsite becomes available.
+Do you scan of availablity for the whole period or in parts?
+We scan for the availability of a campsite for the duration of your stay. Additionally, we offer an option where we try to secure multiple campsites within a campground for your dates.
+Will I be able to book a campsite on receiving a notification?
+It depends, but to give you the best chance, we have the option of enabling calling. This is the best way if you are serious about getting that campsite!
+How can I be sure that I will be able to find a spot?
+We can never gurantee availability, but in most of the cases folks get their desired spot. We give 100% credits back (limited time offer) if we are not able to find a spot! Yes we are that sure!
+Do you also find permit for hikes?
+Yeah we do! You can find permits for hikes, backcountry adventures, tours and other restricted activities.
+What are my personal details used for?
+We only use your phone number to notify you of availability. We will never send any promotional text there.
+Still have questions?
+Can't find the answer you are looking for? Please chat with our friendly team.
+More Questions
+Explore the categories below to get your answers...
+Does this put pressure on the booking systems?
+No, absolutely not, infact it takes the pressure off them. If you open any website to check for availability, you make atleast 500 requests. While we make only around 250 in a day! And we combine requests from all users looking for same campground/permit into one, so realistically the number is almost negligible.
+How does the park benefit from this?
+Yes, our whole idea is to make sure the park's resources are being used well. By filling the empty sites, we ensure more revenue for the parks, the booking system and a change to be outdoors for you. We call that a WIN-WIN-WIN!
+Why don't you just book the campground?
+That would give a user unfair advantage over the process and all the campgrounds would be going to robots. Most of the campgrounds have rules that the booking should only be made by the person whose name is on the reservation, and we don't want to violate that. Even we have a grace period of 5 mins between our scans to make sure other have a chance of getting the campsite/permit
+How does this work?
+After you create a tracker on our website, we basically go to that campground's booking system and get the availability for your date and party size. We keep doing that until someone cancels and we find a empty slot. At this time we text/call you and ask you to make the booking.
+Can I track things other than campgrounds?
+Yeah, we track a lot of permits, passes, backcountry permits, tours, hotels and lodges. Just try to search for the thing you want to track. If you aren't able to see it, contact us and we would be happy to add it.
+Why am I not getting any alerts?
+Usually we see a lot of cancellations happening, but a majority of these are withing 2 weeks of the start date. Other factors aslo matter a lot. If you are staying for a large number of days, the probability of getting a spot decreases, especially if the park is popular or is in season. Another factor might be the party size, for permits this matters a lot and it's less likey to get a permit for 6 people than for 2 people. Overall have flexibilty and patience and pray to the cancellation Gods!
+How much time do I have to book after getting the alert?
+Act immediately! If you are creating a tracker that means you are looking at a popular campground/permits. Those sell out within 5-10 minutes. We have a call option that you can enable while creating the tracker. We highly recommend this because who looks at text these days. This makes sure your are realy notified and gives you the best chance.
+I got an Alert, but don't see any open slot?
+Unfortunately, that means that someone else booked that slot before you. While this is definitely disheartning, looking at the bright side... hmm there is no bright side to this. Have patience and wait for someone else to cancel. In the rare cases it could be a bug with our system. If this is happening repeatedly, let us know!
+I see an availability, but I didn't get an alert?
+We check the availability for the exact information you mentiones, so if the group size, equipment type or anything else doesn't match exatly we won't alert you. Also we don't alery for the same site within 24 hours. This is a meause to ensure we are not making 100s of calls to you in day! If everything matches and still you aren't getting alerts, reach out to us and we will resolve this together.
+I got an alert but was unable to book, what now?
+Don't worry we got you. While it's unfortunate you weren't able to book, we will keep the tracker running and nofity you if the campsite/permit becomes available again. This is done free of cost, you don't have to take any action for it.
+I am getting alerts for campsite/permit I have already booked. How to stop this madness?
+We understand it can get frustating very quickly to get alerts for alrady booked sites. Please don't block/mark the number as spam, because that will prevent you and other from getting further notifications. There is no way for us to know if you were able to book the reservation or not. That's why we can't automatically stop the tracker. Please go to your Dashboard and visit the "Trackers" page, here you should see a "Stop" button. Stop the tracker to stop the notification for this tracker.
+What is a tracker?
+Think of tracker as the site/permit you want to get notification for on cancellation. The "thing" that you create on our website is the tracker. We then scan for your specific dates and other parameters and determine if there is an availability.
+What is a scan?
+Scan is what we do to check for availability for the tracker that you have created. You can see all the scans we are doing for you in your Dashboard. You can even filter them by the tracker. This is a way for you monitor what's happening and the frequecy with which we are scanning the tracker. Talk about full transparency.
+How do I pause/stop a tracker?
+You can visit your Dashboard and go to the "Trackers" page. There you should see the Pause and Stop buttons. Pause will pause the tracker for the time, you can resume the tracker anytime you want. This is useful for things where you are going for a vacation and won't be able to receive the alert or act on them. Stop will terminate the tracker permanently, this is a good option when you have got an availability for the tracker(Yay!) or your plans have changed.
+How may trackers can I create?
+You can create upto 5 tracker per month if you have a subscription. And there is no other limit, like you can have any number of tracker running in parallel. If you think you need more trackers, talk to us and we can surely work out something.
+Can I edit my tracker?
+Yes all trackers are editable within 24 hours of creation! You can edit fields like start, end date, group size, equipment and even the flexible dates option.
+How can I cancel my subscription?
+You can click on the top right menu and select "Dashboard", then select Subscriptions from the grid. You will get options to cancel your subscription.
+What happens when I pause my subscription?
+You still have the subscription till the next billing date. After that your account won't be debited for the duration of the pause. You are free to resume the subscription anytime you want. The subscription will resume instantly.
+What happens to my tracker once I pause/cancel?
+Don't worry, your tracker are safe and would still be running. You will continue to get alerts even if your subscription is no longer there.
+What's the way to contact support?
+You can always reach out to us through the chat. That would be the fastest way to reach us. Also you can email your queries to contact@reservenature.com
+What's the response time?
+It's usually within seconds for queries received through chat and within a few hours for emails. The rate would be slow outside US "waking" hours. Overall we are pretty good with support and reply instantly unless we are hiking, backpacking, camping, surfing, skiing, rafting, kayaking, climbing, cycling or sleeping!
+What's the difference between 10 dollar and 15 dollar plan?
+10 dollar plan (Pay As You Go) let's you create a single tracker per use, Gives Call & Text as soon as there is availability, Checks for availability every 10 mins, Can book specific campsite/tour time, Doesn't Allow flexible number of people in group, Doesn't allow to choose type of equipment for camping, Doesn't allow flexible dates of arrival, if there's no availability we refund you via 100% credits for future use.
+15 Dollar/month (Adventurer Monthly Pass) subscription plan let's you create 5 Trackers per month, Get Call & Text as soon as there is availability, Checks for availability every 5 mins, Can book specific campsite/tour time, Allows flexible number of people in group, Allows to choose type of equipment for camping, Allows flexible dates of arrival.
+Which phone number I will get call from if there is availability for my campsite?
+You will get call from - +1 844 236 6494 for USA 
+If my tracker is expired, can I change the end date? 
+No you cannot edit the tracker once it's expired, you will have to create a new one
+How can I Cancel Subscription / Pause Subscription?
+Following are the instructions:
+Click on your profile image in the top right, then click Dashboard. Under Dashboard you will see Subscription card. Click it and you will see options
+to either cancel or pause sunscription.
+How do I create tracker?
+Create a tracker for the campsite/permit that you would like to be notified.
+Visit https://reservenature.com and search for the campground/permit. Select dates and other filters like size of your group, etc. and hit Track button.
+This will create a tracker for your specified campground/permit and selected parameters
+How to resume Paused Tracker?
+Click on your profile image in the top right, then click Trackers, and you will see list of Trackers created by you. If tracker is active you will see edit, pause/resume and stop buttons next to it. 
+You can click resume is you want to resume paused Tracker
+How to use Flexible dates feature for tracker?
+While creating a tracker and selecting dates you will see an option to check Flexible +-1 or +-2 days options in small Orange Font. 
+This option will look for availability in +-1 or +-2 days of your sepcified date/dates. This option is only available for Adventurer Monthly Pass users.
+
+Reserve Nature lets you create trackers for the campground and permit that are sold out. So that you can book them as soon as someone cancels. We will text you (even call you) when we find a reservation available so that you make that camping trip happen!
+We know this pain really well and the worst part is that many of these campsites go unoccupied because plans of the guests change. These cancellations prevent the parks from utilizing their resource to a 100%.
+The way to book a permit and campsite is to keep checking for reservations. The only way to do it is by going to the park's website and keep refreshing it until you see a cancellation. Or to do this atleast as frequently as you can. While the above approach works it is extrement tiring and distrcting. Checking for a reservations every few hours becomes too much too soon.
+1. Create a tracker for the campsite/permit that you would like to be notified.
+Visit https://reservenature.com and search for the campground. Select dates and other filters like size of your group, etc.
+2. Planchoose a payment plan that would work for you.
+We have very simple plans that would surely cater to your needs. Head over to https://reservenature.com to see all our plans.
+3. Waitpatiently for a call/notification from us.
+We will be scanning for availability at your chosen campground/permit. As soon as we find a slot, we will notify/call you with the details.
+4. Bookthe reservation as soon as you get notified.
+Act quickly and book the campsite/permit you have been trying to get the reservation for.
+
+
+COMPANY
+LEGAL
+CONTACT
+New York, NY, 11109, US
+contact@reservenature.com
++1 (669) 208-5607
+© 2023 Reserve Nature. All rights reservedReserve Nature - Track Campgrounds, Permits availability
+About Us: Track campground cancellations
+we've got you covered
+
+Reserve Nature lets you create trackers for the campground and permit that are sold out. So that you can book them as soon as someone cancels. We will text you (even call you) when we find a reservation available so that you make that camping trip happen!
+The following year, we found ourselves in the same dilemma. This time, I decided to find a better solution. I wrote a small piece of code that would call me when availability was found at the Phantom Ranch. Sure enough, I received a call the same day, but the dates were not suitable for us as full-time employees. I adjusted the code to search only for weekends, and within a week, I received another call and was able to book the lodge and make our dream of staying in the Canyon a reality.
+We started using this technique for other "hard-to-get" reservations, such as Mt. Whitney permits, Going to the Sun Road, and popular campsites. We were successful in getting all of these reservations! Within a year, there wasn't a permit or campsite that we wanted but were unable to obtain. That's when we decided to share our method with others and help everyone enjoy the great outdoors as we have.
+
+Affiliate Marketing: Earn with Reservenature
+Earn money by promoting our products and services. Get started today and watch your income grow!
+
+High commission rates
+We beat the industry standard by a lot to make sure it's worth your time.
+
+Easy to track referrals
+You get accurate tracking of when your referrals make a payment on out dashboard.
+
+Dedicated support team
+We are available 24 x 7 for any of the queries that you might have. Reach us through chat!
+
+Exclusive promotional resources
+We provide exclusive promotional resources such as banners, text links, videos, images, emails, social media assets, etc.
+
+Longer bonus period
+Longer bonus period. We link the referral even if they pay upto 7 days after clicking on your link.
+
+Timely and secure payments
+We provide multiple payment options, and transparency in the payment process.
+$2
+Earn $2 in commission when a user creates a One Time Tracker.
+$5
+Earn $5 in commission when a user buys a Subscription
+1. Sign up and join our affiliate program to get your unique referral link and promotional resources.
+2. Share your referral link with your audience and promote our products and services through your website, blog, social media, and more.
+3. Earn a commission on every successful sale made through your referral link.
+4. To get funds in your account use the "Cash Out" button on your dashboard.
+
+Payment:Affiliates will receive a commission payment for every new customer that purchases a product. The commission payment will be one-time and apply only to the first purchase.
+New Users:The affiliate program is intended for new users only. Affiliates are not permitted to refer existing customers to the program - payments will only be made for referrals that result in first time purchase
+Use in Positive Cases Only:The program and its associated products must only be promoted in a positive manner. Affiliates are prohibited from using any unethical, illegal, or aggressive marketing strategies to promote the program. Any breach of this condition will result in immediate termination of the affiliate agreement.
+No Self Signups:Affiliates are not allowed to sign up as a customer using their own unique referral code to receive a commission payment.
+Termination:The program reserves the right to terminate the affiliate agreement at any time for any reason. In the event of a termination, the affiliate will receive outstanding commission payments.
+Confidential Information:Affiliates agree to keep all confidential information pertaining to the program and its associated products, including but not limited to commission rates, payment schedules, and customer data, confidential and secure.
+Changes to the Program:The program reserves the right to modify, adjust or terminate the affiliate program at any time without notice, and at its sole discretion.

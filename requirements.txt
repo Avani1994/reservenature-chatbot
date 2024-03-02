@@ -1,0 +1,9 @@
+requests
+trafilatura
+beautifulSoup4
+tqdm
+requests_html
+selenium
+mistralai
+faiss-cpu
+
